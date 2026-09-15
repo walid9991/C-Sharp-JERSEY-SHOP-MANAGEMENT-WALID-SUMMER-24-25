@@ -1,0 +1,212 @@
+E:\C#\project\login 2\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\C#\project\login 2\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\C#\project\login 2\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\C#\project\login 2\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\C#\project\login 2\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login_2.Form1.resources
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\C#\project\login 2\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\EmployeeDashboard.Employee.resources
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login_2.Form1.resources
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.AssemblyReference.cache
+E:\SIDDIK\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.Up2Date
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.csproj.AssemblyReference.cache
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\EmployeeDashboard.Employee.resources
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login_2.Form1.resources
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.csproj.Up2Date
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\SIDDIK\siddik\login 2\obj\Debug\net8.0-windows\login_2.EmployeeWorkDashboard.resources
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\LastLab\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.csproj.AssemblyReference.cache
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.csproj.Up2Date
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login_2.LoginPage.resources
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login_2.SellProduct.resources
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\EmployeeDashboard.EmployeeControl3.resources
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login_2.EmployeeDashboard.resources
+E:\SIDDIK\siddik\LastLab\login 2\obj\Debug\net8.0-windows\login_2.ManagerDashboard.resources
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Rohan's Project\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.csproj.AssemblyReference.cache
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\EmployeeDashboard.EmployeeControl3.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login_2.EmployeeDashboard.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login_2.LoginPage.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login_2.ManagerDashboard.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login_2.SellProduct.resources
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.csproj.Up2Date
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\Rohan's Project\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\login 2.exe
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\login 2.deps.json
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\login 2.runtimeconfig.json
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\login 2.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\login 2.pdb
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\O,K\login 2\login 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.AssemblyReference.cache
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\EmployeeDashboard.EmployeeControl3.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.EmployeeDashboard.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.LoginPage.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.ManagerDashboard.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.Properties.Resources.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.SellProduct.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.GenerateResource.cache
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfoInputs.cache
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.AssemblyInfo.cs
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.CoreCompileInputs.cache
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.csproj.Up2Date
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.dll
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\refint\login 2.dll
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.pdb
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login 2.genruntimeconfig.cache
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\ref\login 2.dll
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\AdminDashBoard.Admin.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\AdminDashBoard.ProductManagement.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\AdminDashBoard.Reports.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\AdminDashBoard.UserManagement.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.StockManagement.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.ReviewRestock.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.ManUpdateInformation.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.ManageInventory.resources
+E:\O,K\login 2\login 2\obj\Debug\net8.0-windows\login_2.UpdateInformation.resources
